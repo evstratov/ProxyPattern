@@ -1,0 +1,6 @@
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\ProxyPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.csprojResolveAssemblyReference.cache
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.exe
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\ProxyPattern\ProxyPattern\obj\Debug\ProxyPattern.pdb
